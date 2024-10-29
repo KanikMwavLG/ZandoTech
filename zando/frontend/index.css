@@ -14,7 +14,7 @@
 
 /*Ecran extra small devices (portrait phone, Less than 576px)*/
 @media(max-width: 575.98px){
-*{background-color: var(--background-color-primary); font-weight: bold; margin: 0; padding: 0; font-family: var(--font-family-Policebody);}
+*{background-color: var(--background-color-primary); margin: 0; padding: 0; font-family: var(--font-family-Policebody);}
 *::-webkit-scrollbar{width: 1px;}
 @-moz-document url-prefix(){
    html{
