@@ -1,0 +1,294 @@
+/*variables css*/
+
+@font-face {
+    font-family: 'Policebody', sans-serif;
+    src: url('polices/Lato/Lato-Bold.ttf');
+}
+
+
+:root{
+    --font-family-Policebody: 'Policebody', sans-serif;
+
+  
+}
+
+/*Ecran extra small devices (portrait phone, Less than 576px)*/
+@media(max-width: 575.98px){
+*{background-color: var(--background-color-primary); font-weight: bold; margin: 0; padding: 0; font-family: var(--font-family-Policebody);}
+*::-webkit-scrollbar{width: 1px;}
+@-moz-document url-prefix(){
+   html{
+        overflow-y: auto;
+        overflow-x: auto;
+        scrollbar-width: thin;
+        }
+    }
+
+    a{background: transparent; text-decoration: none;}
+    .bar{border-bottom: 2px solid rgb(216, 216, 216);}
+    .bloc-image{background-color: var(--colorback1); width: 3.7rem; height: 2.58rem; border-radius: 10rem;}
+    .img-settings{background: transparent;  width: 1.7rem; height: 1.7rem;}
+    .logo-old{width: 9rem; background: transparent;}
+    .logo-app-old{width: 100%; height: 100%; background: transparent; object-fit: cover;}
+    
+    #Main{background: var(--background-color-primary); width: 100%; height: 100%; position: absolute; margin-top: 4rem;}
+    .bloc1{background: orangered; width: 100%; height: auto; padding: 2%; margin-top: 4%; text-align: center; color: white; border-radius: 0.5rem;}
+    .bloc2{background: rgb(0, 0, 0); width: 100%; height: auto; text-align: left; padding: 2%; color: white; margin-top: 4%; border-radius: 0.5rem;} 
+    .titlebloc2{font-family: var(--font-family-PoliceTitrePrincipal); font-size: 25px;}
+    .descbloc2{font-family: var(--font-family-Policebody); font-size: 15px;}
+    .titlebloc1{font-family: var(--font-family-PoliceTitrePrincipal); font-size: 20px;}
+    .descbloc1{font-family: var(--font-family-Policebody); font-size: 15px;}
+    .headerMain{width: 100%; height: auto;}
+    .img-profil-site{width: 100%;}
+    #btn-orangered{background: orangered; border-radius: 0.5rem; padding: 2%; border: none; color: white; font-family: var(--font-family-Policebody);}
+    #title-all-me{margin-top: 1rem; margin-left: 4%; background: transparent; font-size: 25px; color: var(--color-secondary);
+         font-family: var(--font-family-PoliceTitrePrincipal);}
+
+   .blocvide{background: transparent; width: 100%; height: 20rem;}
+   .blocvide2{background: transparent; width: 100%; height: 8rem;}
+   .b{font-family: var(--font-family-PoliceTitrePrincipal); font-size: 22px;}
+   .card-text{font-size: 19.5px; text-align: center; padding-top: 5%; font-family: var(--font-family-Policebody);}
+   .p{font-size: 40px;}
+   .navme{border: 2px solid var(--background-color-quator); border-radius: 0.5rem 0.5rem 0 0;}
+   .icon-footer{background: transparent; width: 1.5rem; height: 1.5rem; margin-left: 25%;}
+   .icon-footer-page{background: transparent; width: 2rem; height: 2rem; margin-left: 20%;}
+   .icon-footer-5{background: transparent; width: 1.5rem; height: 1.5rem; margin-left: 8%;}
+   .logo-app{width: 100%; height: 100%; object-fit: cover;}
+   .left{text-align: left; margin-left: 4%;}
+   .card-title{padding-top: 10%;}
+
+   #offcanvasRight{width: 100%;}
+   #offcanvasRightLabel{font-size: 20px; color: var(--color-secondary); font-family: var(--font-family-PoliceTitrePrincipal);}
+
+
+   .modal-content{padding: 1rem;}
+   .modal-body{height: auto; padding: 1rem;}
+   #staticBackdrop1{width: 100%; height: auto; background: transparent;}
+   #staticBackdrop2{width: 100%; height: auto; background: transparent;}
+   .modal-dialog{border-radius: 0.5rem;}
+   .muff{width: 100%; height: 1rem;}
+   
+   .contain{background: black; padding: 2%; width: 100%;}
+   .title-bloc{background: transparent; font-size: 28px; font-family: var(--font-family-PoliceTitrePrincipal); color: rgb(0, 0, 0); text-align: left;}
+   .bbb{display: none;}
+   .icon-equipe-mwav{background: transparent; width: 2rem; height: 2rem;}
+   .icon-equipe-mwav2{background: transparent; width: 3rem; height: 3rem; margin-top: 10%;}
+   .icon-equipe-mwav1{background: transparent; width: 1.8rem; height: 1.8rem; margin-top: 5%; margin-left: 15%;}
+   .title-page-hidden{background: transparent; font-size: 20px; font-weight: bold; font-family: var(--font-family-PoliceTitrePrincipal); margin-top: 3%;}
+   .ahref{background: transparent; text-decoration: none; color: var(--color-secondary);}
+   .ahref:active{background: transparent; color: var(--color-tertio);}
+
+   
+   .accordion-button:active{background: orangered; font-size: 20px; box-shadow: none; border: none; outline: none; color: #000;;}
+   .accordion-button:focus{background: transparent; font-size: 20px;  box-shadow: none; border: none; outline: none; color: #000;;}
+   .accordion{margin-top: 2%; border-bottom: 1.5px solid rgb(216, 216, 216); background: transparent;}
+   .accordion-body{background: transparent; }
+   .accordion-item{background: transparent;}
+   .collapse{background: transparent;}
+   .accordion-collapse{background: transparent;}
+   .HEADER{font-size: 20px;  background: transparent; color:  black;}
+   .Header{font-size: 20px; background: transparent; color: #000;;}
+   .ACCORDION-TITRE{font-weight: bold; background: transparent;}
+
+   
+   .collapsed{background: transparent; font-size: 20px;}
+   #flush-headingOne{background: transparent;}
+   #flush-headingTwo{background: transparent;}
+   #flush-headingThree{background: transparent;}
+   #flush-headingFour{background: transparent;}
+   #flush-headingFive{background: transparent;}
+   #flush-headingSix{background: transparent;}
+   #flush-heading1{background: transparent;}
+   #flush-heading2{background: transparent;}
+   #flush-heading3{background: transparent;}
+   #flush-heading4{background: transparent;}
+   #flush-heading5{background: transparent;}
+   #flush-heading6{background: transparent;}
+   
+
+       .icon-footer{background: transparent; width: 1.5rem; height: 1.5rem; margin-left: 5%;}
+       .logo{width: 18rem; background: transparent; object-fit: cover; margin-left: 1%; margin-bottom: 8%;}
+       .logo-app{width: 100%; height: 100%; background: transparent; object-fit: cover;}
+       .logo-close{width: 3rem; background: transparent; object-fit: cover;}
+       .logo-app-close{width: 100%; height: 100%; background: transparent; object-fit: cover;}
+       .muted-foot{text-align: center; font-size: 15px;}
+       
+       .logo-1{width:20rem; background: transparent;}
+       .logo-app-1{width: 100%; height: 100%; background: transparent; object-fit: cover;}
+       .titre-nav-1{margin-left: 1px; margin-top: 4px; background: transparent;}
+
+       .iconretout{background: transparent; width: 2.5rem; height: 2.5rem;}
+      .LK{padding: 4%;}
+
+
+       .btn-primary{font-size: 15.8px; text-align: center; font-weight: bold; font-family: var(--font-family-Policebody);}
+  
+        .muff{width: 100%; background: transparent; height: 0.5rem;}
+    
+       input{width: 100%;}
+       #title-all-me{margin-top: 1rem; margin-bottom: 0.1rem; margin-left: 4%; background: transparent; font-size: 14px; color: var(--color-quinque);
+      font-family: var(--font-family-PoliceTitrePrincipal);}
+    
+    
+
+    .bloc-image2{background: transparent; width: 100%; height: 100%;  margin-top: 25%;}
+    .logo-startup{background: transparent; width: 100%; height: 100%;}
+    .name-startup{background: transparent; color: var(--color); text-align: center; font-family: var(--font-family-Policebody);
+         font-size: 40px; margin-top: 4%;}
+    .description{background: transparent; font-size: 30px; font-weight: bold; color: black; text-align: center; margin-top: 4%;}
+    .version{background: transparent; font-size: 15px; font-weight: bold; color: black; text-align: center; margin-top: 55%;}
+
+
+
+
+}
+
+/*Ecran small devices (landscape phone, 576px and up)*/
+@media(min-width: 576px) and (max-width: 767.98px){
+    *{background-color: var(--background-color-primary); font-weight: bold; margin: 0; padding: 0; font-family: var(--font-family-Policebody);}
+*::-webkit-scrollbar{width: 1px;}
+@-moz-document url-prefix(){
+   html{
+        overflow-y: auto;
+        overflow-x: auto;
+        scrollbar-width: thin;
+        }
+    }
+
+    a{background: transparent; text-decoration: none;}
+    .bar{border-bottom: 2px solid rgb(216, 216, 216);}
+    .bloc-image{background-color: var(--colorback1); width: 3.7rem; height: 2.58rem; border-radius: 10rem;}
+    .img-settings{background: transparent;  width: 1.7rem; height: 1.7rem;}
+    .logo-old{width: 9rem; background: transparent;}
+    .logo-app-old{width: 100%; height: 100%; background: transparent; object-fit: cover;}
+    
+    #Main{background: var(--background-color-primary); width: 100%; height: 100%; position: absolute; margin-top: 4rem;}
+    .bloc1{background: orangered; width: 100%; height: auto; padding: 2%; margin-top: 4%; text-align: center; color: white; border-radius: 0.5rem;}
+    .bloc2{background: rgb(0, 0, 0); width: 100%; height: auto; text-align: left; padding: 2%; color: white; margin-top: 4%; border-radius: 0.5rem;} 
+    .titlebloc2{font-family: var(--font-family-PoliceTitrePrincipal); font-size: 25px;}
+    .descbloc2{font-family: var(--font-family-Policebody); font-size: 15px;}
+    .titlebloc1{font-family: var(--font-family-PoliceTitrePrincipal); font-size: 20px;}
+    .descbloc1{font-family: var(--font-family-Policebody); font-size: 15px;}
+    .headerMain{width: 100%; height: auto;}
+    .img-profil-site{width: 100%;}
+    #btn-orangered{background: orangered; border-radius: 0.5rem; padding: 2%; border: none; color: white; font-family: var(--font-family-Policebody);}
+    #title-all-me{margin-top: 1rem; margin-left: 4%; background: transparent; font-size: 25px; color: var(--color-secondary);
+         font-family: var(--font-family-PoliceTitrePrincipal);}
+
+   .blocvide{background: transparent; width: 100%; height: 20rem;}
+   .blocvide2{background: transparent; width: 100%; height: 8rem;}
+   .b{font-family: var(--font-family-PoliceTitrePrincipal); font-size: 22px;}
+   .card-text{font-size: 19.5px; text-align: center; padding-top: 5%; font-family: var(--font-family-Policebody);}
+   .p{font-size: 40px;}
+   .navme{border: 2px solid var(--background-color-quator); border-radius: 0.5rem 0.5rem 0 0;}
+   .icon-footer{background: transparent; width: 1.5rem; height: 1.5rem; margin-left: 25%;}
+   .icon-footer-page{background: transparent; width: 2rem; height: 2rem; margin-left: 20%;}
+   .icon-footer-5{background: transparent; width: 1.5rem; height: 1.5rem; margin-left: 8%;}
+   .logo-app{width: 100%; height: 100%; object-fit: cover;}
+   .left{text-align: left; margin-left: 4%;}
+   .card-title{padding-top: 10%;}
+
+   #offcanvasRight{width: 100%;}
+   #offcanvasRightLabel{font-size: 20px; color: var(--color-secondary); font-family: var(--font-family-PoliceTitrePrincipal);}
+
+
+   .modal-content{padding: 1rem;}
+   .modal-body{height: auto; padding: 1rem;}
+   #staticBackdrop1{width: 100%; height: auto; background: transparent;}
+   #staticBackdrop2{width: 100%; height: auto; background: transparent;}
+   .modal-dialog{border-radius: 0.5rem;}
+   .muff{width: 100%; height: 1rem;}
+   
+   .contain{background: black; padding: 2%; width: 100%;}
+   .title-bloc{background: transparent; font-size: 28px; font-family: var(--font-family-PoliceTitrePrincipal); color: rgb(0, 0, 0); text-align: left;}
+   .bbb{display: none;}
+   .icon-equipe-mwav{background: transparent; width: 2rem; height: 2rem;}
+   .icon-equipe-mwav2{background: transparent; width: 3rem; height: 3rem; margin-top: 10%;}
+   .icon-equipe-mwav1{background: transparent; width: 1.8rem; height: 1.8rem; margin-top: 5%; margin-left: 15%;}
+   .title-page-hidden{background: transparent; font-size: 20px; font-weight: bold; font-family: var(--font-family-PoliceTitrePrincipal); margin-top: 3%;}
+   .ahref{background: transparent; text-decoration: none; color: var(--color-secondary);}
+   .ahref:active{background: transparent; color: var(--color-tertio);}
+
+   
+   .accordion-button:active{background: orangered; font-size: 20px; box-shadow: none; border: none; outline: none; color: #000;;}
+   .accordion-button:focus{background: transparent; font-size: 20px;  box-shadow: none; border: none; outline: none; color: #000;;}
+   .accordion{margin-top: 2%; border-bottom: 1.5px solid rgb(216, 216, 216); background: transparent;}
+   .accordion-body{background: transparent; }
+   .accordion-item{background: transparent;}
+   .collapse{background: transparent;}
+   .accordion-collapse{background: transparent;}
+   .HEADER{font-size: 20px;  background: transparent; color:  black;}
+   .Header{font-size: 20px; background: transparent; color: #000;;}
+   .ACCORDION-TITRE{font-weight: bold; background: transparent;}
+
+   
+   .collapsed{background: transparent; font-size: 20px;}
+   #flush-headingOne{background: transparent;}
+   #flush-headingTwo{background: transparent;}
+   #flush-headingThree{background: transparent;}
+   #flush-headingFour{background: transparent;}
+   #flush-headingFive{background: transparent;}
+   #flush-headingSix{background: transparent;}
+   #flush-heading1{background: transparent;}
+   #flush-heading2{background: transparent;}
+   #flush-heading3{background: transparent;}
+   #flush-heading4{background: transparent;}
+   #flush-heading5{background: transparent;}
+   #flush-heading6{background: transparent;}
+   
+
+       .icon-footer{background: transparent; width: 1.5rem; height: 1.5rem; margin-left: 5%;}
+       .logo{width: 18rem; background: transparent; object-fit: cover; margin-left: 1%; margin-bottom: 8%;}
+       .logo-app{width: 100%; height: 100%; background: transparent; object-fit: cover;}
+       .logo-close{width: 3rem; background: transparent; object-fit: cover;}
+       .logo-app-close{width: 100%; height: 100%; background: transparent; object-fit: cover;}
+       .muted-foot{text-align: center; font-size: 15px;}
+       
+       .logo-1{width:20rem; background: transparent;}
+       .logo-app-1{width: 100%; height: 100%; background: transparent; object-fit: cover;}
+       .titre-nav-1{margin-left: 1px; margin-top: 4px; background: transparent;}
+
+       .iconretout{background: transparent; width: 2.5rem; height: 2.5rem;}
+      .LK{padding: 4%;}
+
+
+       .btn-primary{font-size: 15.8px; text-align: center; font-weight: bold; font-family: var(--font-family-Policebody);}
+  
+        .muff{width: 100%; background: transparent; height: 0.5rem;}
+    
+       input{width: 100%;}
+       #title-all-me{margin-top: 1rem; margin-bottom: 0.1rem; margin-left: 4%; background: transparent; font-size: 14px; color: var(--color-quinque);
+      font-family: var(--font-family-PoliceTitrePrincipal);}
+    
+    
+
+    .bloc-image2{background: transparent; width: 100%; height: 100%;  margin-top: 25%;}
+    .logo-startup{background: transparent; width: 100%; height: 100%;}
+    .name-startup{background: transparent; color: var(--color); text-align: center; font-family: var(--font-family-Policebody);
+         font-size: 40px; margin-top: 4%;}
+    .description{background: transparent; font-size: 30px; font-weight: bold; color: black; text-align: center; margin-top: 4%;}
+    .version{background: transparent; font-size: 15px; font-weight: bold; color: black; text-align: center; margin-top: 55%;}
+
+
+}
+
+/*Ecran medium devices (tablets, 768px and up)*/
+@media(min-width: 768px) and (max-width: 991.98px){
+    *{
+        background: green;
+    }
+}
+
+/*Ecran large devices (desktops, 992px and up)*/
+@media(min-width: 992px) and (max-width: 1199.98px){
+    *{
+       display: none;
+    }
+}
+
+/*Ecran extra large devices (landscape phone, 1200px and up)*/
+@media(min-width: 1200px){
+    *{
+       display: none;
+    }
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="frontend/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="frontend/search.css">
+    <title>Kanik Mwav</title>
+</head>
+<body>
+    <nav class="navbar navbar-white bg-white fixed-top">
+        <div class="container">
+         <input type="text" id="searchInput" class="form-control" placeholder="Rechercher..." onkeyup="performSearch()">
+         <div id="title-all-me">Rechercher un produit en tapant par exemple: wireless, iPhone, Headphone, mircophone, etc...</div>
+        </div>
+        </nav>
+
+   <div id="Main">
+
+
+    
+   
+        <div class="container container-me me2">
+            <div class="row">
+                <div class="col-12">
+                    <div class="result" id="resultContainer">
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        
+
+
+
+
+            <div class="modal fade" id="staticBackdrop1" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+            aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div class="conatiner">
+                            <div class="row">
+                                <div class="col-10"><h5 class="modal-title" id="staticBackdropLabel1">Contactez notre service client ?</h5></div>
+                                <div class="col-2"> <button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-2"><div class="muff"></div></div>
+                                <div class="col-8"><a href="" id="whatsappLink" target="_blank"><button type="button" class="btn btn-primary">En savoir plus maintenant</button></a></div>
+                                <div class="col-2"><div class="muff"></div></div>
+                            </div>
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+            </div>
+
+
+
+            <div class="blocvide2"></div>
+
+   </div>
+
+    
+    
+    <script src="frontend/bootstrap/js/bootstrap.bundle.js"></script>
+    <script src="frontend/index.js"></script>
+</body>
+</html>

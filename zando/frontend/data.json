@@ -1,0 +1,244 @@
+[
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120602_1004703961209129639_converted.png",
+        "imageAlt": "application web e-commerce",
+        "content":"application web site web e-commerce",
+        "text": "<p class='title-produit1'>Application web E-commerce pour vente et achat en ligne</p>",
+        "buttonText": "Achetez ce site web maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120600_2085216085347203971_converted.png",
+        "imageAlt": "application mobile restaurant",
+        "content":"application mobile restaurant",
+        "text": "<p class='title-produit1'>Une meilleure application mobile pour restaurant en ligne</p>",
+        "buttonText": "Achetez cette application mobile maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120559_401969607985175675_converted.png",
+        "imageAlt": "application web hopital",
+        "content":"application mobile hopital medecine",
+        "text": "<p class='title-produit1'>Application pour hôpital en ligne h24</p>",
+        "buttonText": "Achetez cette application web maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_115342_5579376928525765418_converted.png",
+        "imageAlt": "site web portofolio personnel",
+        "content":"site web portofolio personnel",
+        "text": "<p class='title-produit1'>Portofolio pour votre business en ligne</p>",
+        "buttonText": "Achetez ce portofolio maintenant ou commandez un selon vos péfèrences"
+    },
+
+
+
+
+    {
+        "type": "text-video",
+        "video": "./videos/Make_a_Skeleton_Screen_Loader_with_HTML,_CSS_and_JavaScript(360p).mp4",
+        "content":"video animation",
+        "text": "<p class='title-produit1'>Animation dessin</p>",
+        "buttonText": "Achetez cette animation maintenant ou commandez un selon vos préfèrences"
+    },
+
+
+
+
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_113041_7478323253266347564_converted.png",
+        "imageAlt": "carte contact personnel modèle A",
+        "content":"carte contact personnel modele a modèle A",
+        "text": "<p class='title-produit1'>Achetez des cartes de servvices déjà concues pour vous<br>Modèle A</p>",
+        "buttonText": "Achetez cette carte de contact maintenant ou commandez un selon vos préfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_112946_1335733567379787954_converted.png",
+        "imageAlt": "carte contact personnel modèle B",
+        "content":"carte contact personnel modele b modèle B",
+        "text": "<p class='title-produit1'>Achetez des cartes de servvices déjà concues pour vous<br>Modèle B</p>",
+        "buttonText": "Achetez cette carte de contact maintenant ou commandez un selon vos préfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_113127_1217191789407598900_converted.png",
+        "imageAlt": "carte contact personnel modèle C",
+        "content":"carte contact personnel modele c modèle C",
+        "text": "<p class='title-produit1'>Achetez des cartes de servvices déjà concues pour vous<br>Modèle C</p>",
+        "buttonText": "Achetez cette carte de contact maintenant ou commandez un selon vos préfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_113115_749762076170325150_converted.png",
+        "imageAlt": "carte contact personnel modèle D",
+        "content":"carte contact personnel modele d modèle D",
+        "text": "<p class='title-produit1'>Achetez des cartes de servvices déjà concues pour vous<br>Modèle D</p>",
+        "buttonText": "Achetez cette carte de contact maintenant ou commandez un selon vos préfèrences"
+    },
+
+
+
+
+
+
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120148_6402523062378518617_converted.png",
+        "imageAlt": "logo boutique d'habillement",
+        "content":"logo boutique d'habillement",
+        "text": "<p class='title-produit1'>Logo officiel pour la boutique d'habillement SMILESHOP<br>Achetez le logo</p>",
+        "buttonText": "Achetez ce logos maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120151_6676125219478930825_converted.png",
+        "imageAlt": "logo informatique technologie ",
+        "content":"logo informatique technologie",
+        "text": "<p class='title-produit1'>Logo officiel pour la startup GLOBAL TECH<br><BR>Achetez le logo</p>",
+        "buttonText": "Achetez ce logos maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120150_2200679538665803503_converted.png",
+        "imageAlt": "logo magasin parfum ",
+        "content":"logo magasin des parmuns",
+        "text": "<p class='title-produit1'>Logo officiel pour le magasin PERFUME<br><BR>Achetez le logo</p>",
+        "buttonText": "Achetez ce logos maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120148_6768246638175199924_converted.png",
+        "imageAlt": "logo boutique d'habillement femmes ",
+        "content":"logo boutique d'habillement femmes",
+        "text": "<p class='title-produit1'>Logo officiel pour le magasin PERFUME<br><BR>Achetez le logo</p>",
+        "buttonText": "Achetez ce logos maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120149_5249519609236053939_converted.png",
+        "imageAlt": "logo entreprise ",
+        "content":"logo entreprise",
+        "text": "<p class='title-produit1'>Logo officiel KanikMwav<br>Droit d'auteur réserver<br><BR>Achetez le logo</p>",
+        "buttonText": "Achetez ce logos maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120152_7555789369263022203_converted.png",
+        "imageAlt": "logo entreprise ",
+        "content":"logo entreprise",
+        "text": "<p class='title-produit1'>Logo officiel KanikMwav<br>Droit d'auteur réserver<br><BR>Achetez le logo</p>",
+        "buttonText": "Achetez ce logos maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120148_7063855842259678811_converted.png",
+        "imageAlt": "logo entreprise ",
+        "content":"logo entreprise",
+        "text": "<p class='title-produit1'>Logo officiel KanikMwav<br>Droit d'auteur réserver<br><BR>Achetez le logo</p>",
+        "buttonText": "Achetez ce logos maintenant ou commandez un selon vos péfèrences"
+    },
+
+   
+
+
+
+
+
+
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120154_3596579199137561968_converted.png",
+        "imageAlt": "affiche concert musique",
+        "content":"affiche concert musique",
+        "text": "<p class='title-produit1'>Des affiches pour concert avec un look élègant</p>",
+        "buttonText": "Achetez cette affiche maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120158_119777978944511197_converted.png",
+        "imageAlt": "affiche anniversaires",
+        "content": "affiche anniversaires hbd",
+        "text": "<p class='title-produit1'>Des affiches pour anniversaires</p>",
+        "buttonText": "Achetez cette affiche maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120157_8912902336188122619_converted.png",
+        "imageAlt": "affiche offre promotion",
+        "content":"affiche offre promotion",
+        "text": "<p class='title-produit1'>Des affiches pour concert avec un look élègant</p>",
+        "buttonText": "Achetez cette affiche maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120154_7482537331766472744_converted.png",
+        "imageAlt": "affiche concert musique",
+        "content": "affiche concert musique",
+        "text": "<p class='title-produit1'>Des affiches pour anniversaires</p>",
+        "buttonText": "Achetez cette affiche maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120153_3929434365169309530_converted.png",
+        "imageAlt": "affiche concert musique",
+        "content": "affiche concert musique",
+        "text": "<p class='title-produit1'>Des affiches pour anniversaires</p>",
+        "buttonText": "Achetez cette affiche maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120558_4753696253605089849_converted.png",
+        "imageAlt": "affiche",
+        "content": "affiche ",
+        "text": "<p class='title-produit1'>Des affiches pour anniversaires</p>",
+        "buttonText": "Achetez cette affiche maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120153_8484547645805293901_converted.png",
+        "imageAlt": "affiche concert musique",
+        "content": "affiche concert musique",
+        "text": "<p class='title-produit1'>Des affiches pour anniversaires</p>",
+        "buttonText": "Achetez cette affiche maintenant ou commandez un selon vos péfèrences"
+    },
+
+    {
+        "type": "text-image",
+        "image": "./images/JPEG_20240913_120158_925411478755830226_converted.png",
+        "imageAlt": "affiche sortie show house party",
+        "content": "affiche sortie show house party",
+        "text": "<p class='title-produit1'>Des affiches pour anniversaires</p>",
+        "buttonText": "Achetez cette afiche maintenant ou commandez un selon vos péfèrences"
+    }
+
+
+
+
+
+
+    
+]
