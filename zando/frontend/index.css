@@ -137,7 +137,7 @@
     .name-startup{background: transparent; color: var(--color); text-align: center; font-family: var(--font-family-Policebody);
          font-size: 40px; margin-top: 4%;}
     .description{background: transparent; font-size: 30px; font-weight: bold; color: black; text-align: center; margin-top: 4%;}
-    .version{background: transparent; font-size: 15px; font-weight: bold; color: black; text-align: center; margin-top: 55%;}
+    .version{background: transparent; font-size: 15px; font-weight: bold; color: black; text-align: center; margin-top: 50%;}
 
 
 
