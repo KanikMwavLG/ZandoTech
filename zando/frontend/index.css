@@ -46,16 +46,17 @@
 
    .blocvide{background: transparent; width: 100%; height: 20rem;}
    .blocvide2{background: transparent; width: 100%; height: 8rem;}
-   .b{font-family: var(--font-family-PoliceTitrePrincipal); font-size: 22px;}
-   .card-text{font-size: 19.5px; text-align: center; padding-top: 5%; font-family: var(--font-family-Policebody);}
-   .p{font-size: 40px;}
+   .b{font-family: var(--font-family-PoliceTitrePrincipal); font-size: 20px;}
+   .card-text{font-size: 15px; text-align: center; padding-top: .5%; font-family: var(--font-family-Policebody);}
+   .p{font-size: 25px;}
    .navme{border: 2px solid var(--background-color-quator); border-radius: 0.5rem 0.5rem 0 0;}
    .icon-footer{background: transparent; width: 1.5rem; height: 1.5rem; margin-left: 25%;}
    .icon-footer-page{background: transparent; width: 2rem; height: 2rem; margin-left: 20%;}
    .icon-footer-5{background: transparent; width: 1.5rem; height: 1.5rem; margin-left: 8%;}
    .logo-app{width: 100%; height: 100%; object-fit: cover;}
    .left{text-align: left; margin-left: 4%;}
-   .card-title{padding-top: 10%;}
+   .card-title{padding-top: 0.5%; text-align: center;}
+   
 
    #offcanvasRight{width: 100%;}
    #offcanvasRightLabel{font-size: 20px; color: var(--color-secondary); font-family: var(--font-family-PoliceTitrePrincipal);}

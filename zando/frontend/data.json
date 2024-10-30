@@ -1,11 +1,11 @@
 [
     {
         "type": "text-image",
-        "image": "./images/JPEG_20240913_120602_1004703961209129639_converted.png",
-        "imageAlt": "application web e-commerce",
-        "content":"application web site web e-commerce",
-        "text": "<p class='title-produit1'>Application web E-commerce pour vente et achat en ligne</p>",
-        "buttonText": "Achetez ce site web maintenant ou commandez un selon vos péfèrences"
+        "image": "./img/white-headphones-airpods-black-background_1197797-216065.jpg",
+        "imageAlt": "wireless",
+        "content":"wireless",
+        "text": "<p class='card-text'>Toutes les marques sont disponibles<br> 20 $</p>",
+        "buttonText": "Achetez maintenant"
     },
 
     {

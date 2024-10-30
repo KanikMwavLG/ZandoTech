@@ -51,7 +51,7 @@ function displayResults(items) {
 
         const button = document.createElement('button');
 
-        button.classList.add('btn', 'btn-primary');
+        button.classList.add('btn', 'btn-orangered');
 
         button.innerText = item.buttonText;
 
@@ -78,24 +78,4 @@ function performSearch() {
 }
 
 document.getElementById('searchInput').addEventListener('input', performSearch);
-
-
-
-
-
-
-
-
-document.addEventListener('DOMContentLoaded', function () {
-    const whatsappLink = document.getElementById('whatsappLink');
-
-    const message = "Bonjour, je souhaite obtenir plus dinformations sur vos produits.";
-
-    const phonenumber = "243975895900";
-
-    const whatsappUrl = 'https://wa.me/ ' + phonenumber + '?text=' + encodeURIComponent(message);
-
-    whatsappLink.href = whatsappUrl;
-});
-
 
