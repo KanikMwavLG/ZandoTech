@@ -29,7 +29,7 @@
     --color-quinque: #585858;
     --color-tertio: #0005e7;
     --color-quator: #252526;
-    --font-family-PoliceTitrePrincipal: 'PoliceTitrePrincipal', sans-serif;
+    --font-family-Policebody: 'PoliceTitrePrincipal', sans-serif;
     --font-family-Policebody: 'Policebody', sans-serif;
   
 }
@@ -54,9 +54,9 @@
    
    .result-bloc{padding: 2%; margin-top: 3rem;}
    .me2{margin-top: 1.5rem;}
-   .result-bloc  video{padding: 0; margin: 0; width: 100%; height: auto;}
-   .result-bloc  .title-produit1{background: transparent; font-size: 18px; margin-top: 5%; text-align: center; color: var(--color-secondary); font-family: var(--font-family-Policebody);}
-   .result-bloc .btn-primary{font-size: 15.8px; text-align: center; font-weight: bold; font-family: var(--font-family-Policebody);}
+   .resultContainer{padding: 2%;}
+   .result-bloc img{border-radius: 1rem; margin-top: 1%;}
+   .result-bloc  .btn-orangered{background: orangered; border-radius: 0.5rem; padding: 2%; border: none; color: white; font-family: var(--font-family-Policebody);}
    .blocvide2{background: transparent; width: 100%; height: 8rem;}
 
        .result-bloc img{background: transparent; width: 100%; border-radius: 0.5rem; margin-left: 1%;}
@@ -65,23 +65,23 @@
        .result-bloc img{background: transparent; width: 100%; border-radius: 0.5rem; margin-left: 1%; margin-top: 28%; margin-bottom: 33%;}
        .result-bloc img{background: transparent; width: 100%; border-radius: 0.5rem; margin-left: 1%; margin-top: 40%; margin-bottom: 45%;}
        .result-bloc .title-produit1{background: transparent; font-size: 18px; color: var(--color-secondary); font-family: var(--font-family-Policebody); text-align: center;}
-    */.btn-primary{font-size: 15.8px; text-align: center; font-weight: bold; font-family: var(--font-family-Policebody);}
+    */ .btn-orangered{background: orangered; border-radius: 0.5rem; padding: 2%; border: none; color: white; font-family: var(--font-family-Policebody); margin-top: 5%; padding: 2%;}
+    .card-text{font-size: 19.5px; text-align: center; font-family: var(--font-family-Policebody);}
+    .b{font-family: var(--font-family-Policebody); font-size: 22px; text-align: center; margin-top: 2%;}
   
-
-
-   .modal-content{padding: 1rem;}
-   .modal-body{height: auto; padding: 1rem;}
-   #staticBackdrop1{width: 100%; height: auto; background: transparent;}
-   #staticBackdrop2{width: 100%; height: auto; background: transparent;}
-   .modal-dialog{border-radius: 0.5rem;}
+    .modal-content{padding: 1rem;}
+    .modal-body{height: auto; padding: 1rem;}
+    #staticBackdrop1{width: 100%; height: auto; background: transparent;}
+    #staticBackdrop2{width: 100%; height: auto; background: transparent;}
+    .modal-dialog{border-radius: 0.5rem;}
     
-   .muff{width: 100%; background: transparent; height: 0.5rem;}
+
 
    input{width: 100%;}
    #title-all-me{margin-top: 1rem; margin-bottom: 0.1rem; margin-left: 4%; background: transparent; font-size: 14px; color: var(--color-quinque);
-    font-family: var(--font-family-PoliceTitrePrincipal);}
+    font-family: var(--font-family-Policebody);}
     
-    
+    .b-b{padding: 2%; border: 2px solid rgb(206, 206, 206);}
    
 
 }

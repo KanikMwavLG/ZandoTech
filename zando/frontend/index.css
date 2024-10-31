@@ -34,19 +34,16 @@
     #Main{background: var(--background-color-primary); width: 100%; height: 100%; position: absolute; margin-top: 4rem;}
     .bloc1{background: orangered; width: 100%; height: auto; padding: 2%; margin-top: 4%; text-align: center; color: white; border-radius: 0.5rem;}
     .bloc2{background: rgb(0, 0, 0); width: 100%; height: auto; text-align: left; padding: 2%; color: white; margin-top: 4%; border-radius: 0.5rem;} 
-    .titlebloc2{font-family: var(--font-family-PoliceTitrePrincipal); font-size: 25px;}
+    .titlebloc2{font-family: var(--font-family-Policebody); font-size: 25px;}
     .descbloc2{font-family: var(--font-family-Policebody); font-size: 15px;}
-    .titlebloc1{font-family: var(--font-family-PoliceTitrePrincipal); font-size: 20px;}
+    .titlebloc1{font-family: var(--font-family-Policebody); font-size: 20px;}
     .descbloc1{font-family: var(--font-family-Policebody); font-size: 15px;}
     .headerMain{width: 100%; height: auto;}
     .img-profil-site{width: 100%;}
     #btn-orangered{background: orangered; border-radius: 0.5rem; padding: 2%; border: none; color: white; font-family: var(--font-family-Policebody);}
-    #title-all-me{margin-top: 1rem; margin-left: 4%; background: transparent; font-size: 25px; color: var(--color-secondary);
-         font-family: var(--font-family-PoliceTitrePrincipal);}
-
    .blocvide{background: transparent; width: 100%; height: 20rem;}
    .blocvide2{background: transparent; width: 100%; height: 8rem;}
-   .b{font-family: var(--font-family-PoliceTitrePrincipal); font-size: 15px;}
+   .b{font-family: var(--font-family-Policebody); font-size: 15px;}
    .card-text{font-size: 13px; text-align: center; padding-top: 0.5%; font-family: var(--font-family-Policebody);}
    .p{font-size: 25px;}
    .navme{border: 2px solid var(--background-color-quator); border-radius: 0.5rem 0.5rem 0 0;}
@@ -59,7 +56,7 @@
    
 
    #offcanvasRight{width: 100%;}
-   #offcanvasRightLabel{font-size: 20px; color: var(--color-secondary); font-family: var(--font-family-PoliceTitrePrincipal);}
+   #offcanvasRightLabel{font-size: 20px;}
 
 
    .modal-content{padding: 1rem;}
@@ -70,12 +67,12 @@
    .muff{width: 100%; height: 1rem;}
    
    .contain{background: black; padding: 2%; width: 100%;}
-   .title-bloc{background: transparent; font-size: 28px; font-family: var(--font-family-PoliceTitrePrincipal); color: rgb(0, 0, 0); text-align: left;}
+   .title-bloc{background: transparent; font-size: 28px; font-family: var(--font-family-Policebody); color: rgb(0, 0, 0); text-align: left;}
    .bbb{display: none;}
    .icon-equipe-mwav{background: transparent; width: 2rem; height: 2rem;}
    .icon-equipe-mwav2{background: transparent; width: 3rem; height: 3rem; margin-top: 10%;}
    .icon-equipe-mwav1{background: transparent; width: 1.8rem; height: 1.8rem; margin-top: 5%; margin-left: 15%;}
-   .title-page-hidden{background: transparent; font-size: 20px; font-weight: bold; font-family: var(--font-family-PoliceTitrePrincipal); margin-top: 3%;}
+   .title-page-hidden{background: transparent; font-size: 15px; font-family: var(--font-family-Policebody); margin-top: 3%;}
    .ahref{background: transparent; text-decoration: none; color: var(--color-secondary);}
    .ahref:active{background: transparent; color: var(--color-tertio);}
 
@@ -107,7 +104,7 @@
    #flush-heading6{background: transparent;}
    
 
-       .icon-footer{background: transparent; width: 1.5rem; height: 1.5rem; margin-left: 5%;}
+       .icon-footer{background: transparent; width: 1rem; height: 1rem; margin-left: 5%;}
        .logo{width: 18rem; background: transparent; object-fit: cover; margin-left: 1%; margin-bottom: 8%;}
        .logo-app{width: 100%; height: 100%; background: transparent; object-fit: cover;}
        .logo-close{width: 3rem; background: transparent; object-fit: cover;}
@@ -118,7 +115,7 @@
        .logo-app-1{width: 100%; height: 100%; background: transparent; object-fit: cover;}
        .titre-nav-1{margin-left: 1px; margin-top: 4px; background: transparent;}
 
-       .iconretout{background: transparent; width: 2.5rem; height: 2.5rem;}
+       .iconretout{background: transparent; width: 1.5rem; height: 1.5rem;}
       .LK{padding: 4%;}
 
 
@@ -128,7 +125,7 @@
     
        input{width: 100%;}
        #title-all-me{margin-top: 1rem; margin-bottom: 0.1rem; margin-left: 4%; background: transparent; font-size: 14px; color: var(--color-quinque);
-      font-family: var(--font-family-PoliceTitrePrincipal);}
+      font-family: var(--font-family-Policebody);}
     
     
 
@@ -166,19 +163,19 @@
     #Main{background: var(--background-color-primary); width: 100%; height: 100%; position: absolute; margin-top: 4rem;}
     .bloc1{background: orangered; width: 100%; height: auto; padding: 2%; margin-top: 4%; text-align: center; color: white; border-radius: 0.5rem;}
     .bloc2{background: rgb(0, 0, 0); width: 100%; height: auto; text-align: left; padding: 2%; color: white; margin-top: 4%; border-radius: 0.5rem;} 
-    .titlebloc2{font-family: var(--font-family-PoliceTitrePrincipal); font-size: 25px;}
+    .titlebloc2{font-family: var(--font-family-Policebody); font-size: 25px;}
     .descbloc2{font-family: var(--font-family-Policebody); font-size: 15px;}
-    .titlebloc1{font-family: var(--font-family-PoliceTitrePrincipal); font-size: 20px;}
+    .titlebloc1{font-family: var(--font-family-Policebody); font-size: 20px;}
     .descbloc1{font-family: var(--font-family-Policebody); font-size: 15px;}
     .headerMain{width: 100%; height: auto;}
     .img-profil-site{width: 100%;}
     #btn-orangered{background: orangered; border-radius: 0.5rem; padding: 2%; border: none; color: white; font-family: var(--font-family-Policebody);}
     #title-all-me{margin-top: 1rem; margin-left: 4%; background: transparent; font-size: 25px; color: var(--color-secondary);
-         font-family: var(--font-family-PoliceTitrePrincipal);}
+         font-family: var(--font-family-Policebody);}
 
    .blocvide{background: transparent; width: 100%; height: 20rem;}
    .blocvide2{background: transparent; width: 100%; height: 8rem;}
-   .b{font-family: var(--font-family-PoliceTitrePrincipal); font-size: 22px;}
+   .b{font-family: var(--font-family-Policebody); font-size: 22px;}
    .card-text{font-size: 19.5px; text-align: center; padding-top: 5%; font-family: var(--font-family-Policebody);}
    .p{font-size: 40px;}
    .navme{border: 2px solid var(--background-color-quator); border-radius: 0.5rem 0.5rem 0 0;}
@@ -190,7 +187,7 @@
    .card-title{padding-top: 10%;}
 
    #offcanvasRight{width: 100%;}
-   #offcanvasRightLabel{font-size: 20px; color: var(--color-secondary); font-family: var(--font-family-PoliceTitrePrincipal);}
+   #offcanvasRightLabel{font-size: 20px; color: var(--color-secondary); font-family: var(--font-family-Policebody);}
 
 
    .modal-content{padding: 1rem;}
@@ -201,12 +198,12 @@
    .muff{width: 100%; height: 1rem;}
    
    .contain{background: black; padding: 2%; width: 100%;}
-   .title-bloc{background: transparent; font-size: 28px; font-family: var(--font-family-PoliceTitrePrincipal); color: rgb(0, 0, 0); text-align: left;}
+   .title-bloc{background: transparent; font-size: 28px; font-family: var(--font-family-Policebody); color: rgb(0, 0, 0); text-align: left;}
    .bbb{display: none;}
    .icon-equipe-mwav{background: transparent; width: 2rem; height: 2rem;}
    .icon-equipe-mwav2{background: transparent; width: 3rem; height: 3rem; margin-top: 10%;}
    .icon-equipe-mwav1{background: transparent; width: 1.8rem; height: 1.8rem; margin-top: 5%; margin-left: 15%;}
-   .title-page-hidden{background: transparent; font-size: 20px; font-weight: bold; font-family: var(--font-family-PoliceTitrePrincipal); margin-top: 3%;}
+   .title-page-hidden{background: transparent; font-size: 20px; font-weight: bold; font-family: var(--font-family-Policebody); margin-top: 3%;}
    .ahref{background: transparent; text-decoration: none; color: var(--color-secondary);}
    .ahref:active{background: transparent; color: var(--color-tertio);}
 
@@ -238,7 +235,7 @@
    #flush-heading6{background: transparent;}
    
 
-       .icon-footer{background: transparent; width: 1.5rem; height: 1.5rem; margin-left: 5%;}
+       .icon-footer{background: transparent; width: 1rem; height: 1rem; margin-left: 5%;}
        .logo{width: 18rem; background: transparent; object-fit: cover; margin-left: 1%; margin-bottom: 8%;}
        .logo-app{width: 100%; height: 100%; background: transparent; object-fit: cover;}
        .logo-close{width: 3rem; background: transparent; object-fit: cover;}
@@ -249,7 +246,7 @@
        .logo-app-1{width: 100%; height: 100%; background: transparent; object-fit: cover;}
        .titre-nav-1{margin-left: 1px; margin-top: 4px; background: transparent;}
 
-       .iconretout{background: transparent; width: 2.5rem; height: 2.5rem;}
+       .iconretout{background: transparent; width: 1.5rem; height: 1.5rem;}
       .LK{padding: 4%;}
 
 
@@ -257,11 +254,7 @@
   
         .muff{width: 100%; background: transparent; height: 0.5rem;}
     
-       input{width: 100%;}
-       #title-all-me{margin-top: 1rem; margin-bottom: 0.1rem; margin-left: 4%; background: transparent; font-size: 14px; color: var(--color-quinque);
-      font-family: var(--font-family-PoliceTitrePrincipal);}
-    
-    
+       
 
     .bloc-image2{background: transparent; width: 100%; height: 100%;  margin-top: 25%;}
     .logo-startup{background: transparent; width: 100%; height: 100%;}
