@@ -215,11 +215,8 @@ document.getElementById('searchInput').addEventListener('input', performSearch);
 document.addEventListener('DOMContentLoaded', function () {
     const whatsappLink = document.getElementById('whatsappLink');
 
-    const message = "Bonjour, je veux acheter un produit.";
 
-    const phonenumber = "243975895900";
 
-    const whatsappUrl = 'https://wa.me/ ' + phonenumber + '?text=' + encodeURIComponent(message);
-
+    const whatsappUrl = 'https://wa.me/243824164074';
     whatsappLink.href = whatsappUrl;
 });
