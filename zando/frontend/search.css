@@ -36,7 +36,7 @@
 
 /*Ecran extra small devices (portrait phone, Less than 576px)*/
 @media(max-width: 575.98px){
-*{background-color: var(--background-color-primary); font-weight: bold; margin: 0; padding: 0;}
+*{background-color: var(--background-color-primary); margin: 0; padding: 0;}
 *::-webkit-scrollbar{width: 1px;}
 @-moz-document url-prefix(){
    html{
@@ -66,7 +66,7 @@
        .result-bloc img{background: transparent; width: 100%; border-radius: 0.5rem; margin-left: 1%; margin-top: 40%; margin-bottom: 45%;}
        .result-bloc .title-produit1{background: transparent; font-size: 18px; color: var(--color-secondary); font-family: var(--font-family-Policebody); text-align: center;}
     */ .btn-orangered{background: orangered; border-radius: 0.5rem; padding: 2%; border: none; color: white; font-family: var(--font-family-Policebody); margin-top: 5%; padding: 2%;}
-    .card-text{font-size: 19.5px; text-align: center; font-family: var(--font-family-Policebody);}
+    .card-text{font-size: 15px; text-align: center; font-family: var(--font-family-Policebody);}
     .b{font-family: var(--font-family-Policebody); font-size: 22px; text-align: center; margin-top: 2%;}
   
     .modal-content{padding: 1rem;}
